@@ -1,0 +1,14 @@
+# This line is comment
+
+# ignore elf file
+*.elf
+
+# ignore object file
+*.obj
+
+# ignore mot file
+*.mot
+
+# ignore binary file
+kzload
+kozos
