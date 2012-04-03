@@ -4,6 +4,7 @@
 *.elf
 
 # ignore object file
+*.o
 *.obj
 
 # ignore mot file
